@@ -1,0 +1,5 @@
+The term JMS stands for Java Message Service, a Java API which acts as a interface between applications to create, send, receive and read messages between them.
+
+It is an asynchronous system, which delivers the messages to a client as they arrive and it does not have to request to receive a message. When the messages are available, they will reach to the client automatically.
+
+The Java Messaging Service is an API used in J2EE technology for exchanging information between two separate and independent network entities (group of hosts).
